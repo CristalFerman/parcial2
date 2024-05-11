@@ -1,0 +1,220 @@
+"items"[
+    {
+        "category": "Desayunos" , 
+        "items":{
+            {
+                "name": "" ,
+                "description":"",
+                "price":"$.00",
+                "image":""
+            },
+            {
+                "name": "" ,
+                "description":"",
+                "price":"$.00",
+                "image":""  
+            },
+            {
+                "name": "" ,
+                "description":"",
+                "price":"$.00",
+                "image":""  
+            },
+            {
+                "name": "" ,
+                "description":".",
+                "price":"$.00",
+                "image":""
+            },
+
+            {
+                "name": "" ,
+                "description":"",
+                "price":"$.00",
+                "image":""
+            },
+            {
+                "name": "" ,
+                "description":"",
+                "price":"$.00",
+                "image":""
+            }
+        }
+    },
+    {
+        "category": "Almuerzos" , 
+        "items":{
+            {
+                "name": "" ,
+                "description":"",
+                "price":"$.00",
+                "image":""
+            },
+            {
+                "name": "" ,
+                "description":"",
+                "price":"$.00",
+                "image":""  
+            },
+            {
+                "name": "" ,
+                "description":"",
+                "price":"$.00",
+                "image":""  
+            },
+            {
+                "name": "" ,
+                "description":".",
+                "price":"$.00",
+                "image":""
+            },
+
+            {
+                "name": "" ,
+                "description":"",
+                "price":"$.00",
+                "image":""
+            },
+            {
+                "name": "" ,
+                "description":"",
+                "price":"$.00",
+                "image":""
+            }
+        }
+    },
+    {
+        "category": "Comidas-Aperitivos" , 
+        "items":{
+            {
+                "name": "" ,
+                "description":"",
+                "price":"$.00",
+                "image":"img/13.jpg"
+            },
+            {
+                "name": "" ,
+                "description":"",
+                "price":"$.00",
+                "image":"img/14.wepb"  
+            },
+            {
+                "name": "" ,
+                "description":"",
+                "price":"$.00",
+                "image":"img/15.jpg"  
+            },
+            {
+                "name": "Flautas rellenas de carne sazonada" ,
+                "description":"Se presentan en una cama de salsa verde con aguacate, acompañadas de crema fresca y queso rallado. Cada bocado ofrece una explosión de sabores mexicanos, con la suavidad del aguacate complementando la intensidad de la salsa verde. La crema fresca y el queso rallado añaden una cremosidad y un toque de salinidad que completan esta deliciosa experiencia culinaria. Es un plato reconfortante y lleno de sabor que satisfará los antojos de cualquier amante de la cocina mexicana.",
+                "price":"$.00",
+                "image":"img/16.jpg"
+            },
+
+            {
+                "name": "Ensalada de camarones con verduras al vapor y pasta" ,
+                "description":"Es una combinación refrescante y satisfactoria de mariscos, vegetales y carbohidratos. Los camarones, jugosos y delicadamente cocidos, se mezclan con verduras al vapor, como brócoli y zanahorias, que aportan frescura y color al plato. Todo se une con pasta al dente, que añade una textura reconfortante y complementa los sabores del marisco y las verduras.",
+                "price":"$150.00",
+                "image":"img/8.jpg"
+            },
+            {
+                "name": "Milanesa empanizada de pollo" ,
+                "description":"Es una delicia crujiente y tierna que se complementa perfectamente con una ensalada fresca de verduras. La milanesa, con su exterior dorado y crujiente, revela un interior jugoso y lleno de sabor de pollo tierno. La ensalada, compuesta por una variedad de verduras frescas y crujientes, añade un toque de frescura y color al plato, creando un equilibrio entre lo crujiente y lo refrescante.",
+                "price":"$110.00",
+                "image":"img/17.jpg"
+            }
+        }
+    },
+    {
+        "category": "Postres" , 
+        "items":{
+            {
+                "name": "Pastel de maracuyá" ,
+                "description":"Es una delicia tropical que combina la frescura y acidez característica de la fruta de la pasión con una textura suave y ligeramente gelatinosa. Cada bocado ofrece un estallido de sabor refrescante y exótico que evoca los cálidos días de verano. El pastel, con su tono amarillo brillante y su sabor distintivo, es una opción deliciosa para cualquier ocasión, especialmente para aquellos que disfrutan de sabores tropicales y refrescantes.",
+                "price":"$70.00",
+                "image":"img/6.jpg"
+            },
+            {
+                "name": "Tarta de fresa con crema batida" ,
+                "description":"es un clásico postre que combina la frescura y dulzura de las fresas con la suavidad y ligereza de la crema batida. La base de masa quebrada o galleta crujiente sostiene un relleno cremoso y dulce de fresas frescas o compota de fresas. Encima, se coloca una capa generosa de crema batida, que agrega un toque de frescura y decadencia al postre",
+                "price":"$58.00",
+                "image":"img/5.jpg"  
+            },
+            {
+                "name": "Cheesecake de frambuesa y moras" ,
+                "description":"Es una exquisita combinación de suave y cremoso queso crema con la frescura y acidez de las frambuesas y moras. La base de galleta crujiente sostiene un relleno sedoso de queso crema, decorado con una capa de salsa de frambuesa y moras, que añade un toque de color y sabor vibrante al postre.",
+                "price":"$68.00",
+                "image":"img/4.jpg"  
+            },
+            {
+                "name": "Macarons" ,
+                "description":"Son pequeños y delicados bocados de repostería francesa, formados por dos galletas de almendra, ligeramente crujientes por fuera y suaves por dentro, unidas por un relleno cremoso. Estas galletas vienen en una variedad de colores y sabores, desde clásicos como vainilla y chocolate hasta opciones más exóticas como lavanda o pistacho.",
+                "price":"$85.00",
+                "image":"img/3.jpg"
+            },
+
+            {
+                "name": "Mosaico de gelatina" ,
+                "description":"Es un postre colorido y divertido que consiste en capas de gelatina de diferentes colores y sabores, dispuestas en un patrón vibrante y llamativo. Cada capa está hecha con gelatina aromatizada y coloreada, que se solidifica para crear una textura suave y elástica. Al cortar el mosaico, se revelan las distintas capas, creando un efecto visualmente impresionante.",
+                "price":"$60.00",
+                "image":"img/2.jpg"
+            },
+            {
+                "name": "Mousse de chocolate con crema batida" ,
+                "description":"Es un postre decadente y cremoso que combina la intensidad del chocolate con la ligereza de la crema batida. El mousse, suave y sedoso, se elabora con chocolate derretido y claras de huevo batidas, lo que le confiere una textura aireada y suave. Se sirve adornado con una capa de crema batida, que aporta un toque de frescura y suavidad. ",
+                "price":"$75.00",
+                "image":"img/1.jpg"
+            }
+        }
+    },
+    {
+        "category": "Bebidas" , 
+        "items":{
+            {
+                "name": "Rainbow Paradise" ,
+                "description":"Es una exquisita bebida tropical que combina una variedad de sabores y colores vibrantes. Esta bebida refrescante está compuesta por una mezcla de jugos de frutas tropicales como piña, mango, papaya y maracuyá, creando una explosión de sabores dulces y ácidos en cada sorbo. Con su llamativa paleta de colores que recuerda a un arcoíris, Rainbow Paradise es una opción refrescante y deliciosa.",
+                "price":"$82.00",
+                "image":"img/25.jpg"
+            },
+            {
+                "name": "Jugos naturales" ,
+                "description":"Jugo de naranja: Refrescante y lleno de vitamina C, el jugo de naranja es conocido por su sabor dulce y cítrico que despierta los sentidos y proporciona una dosis de energía natural.
+                Jugo de toronja: Con un sabor ligeramente ácido y refrescante, el jugo de toronja es una excelente opción para despertar el paladar y proporcionar una sensación de frescura.
+                Jugo de betabel: Este jugo ofrece un sabor único y terroso, con un ligero toque dulce. Es conocido por ser rico en antioxidantes y nutrientes que promueven la salud.
+                Jugos verdes: Elaborados con una mezcla de verduras de hojas verdes como espinacas, kale o apio, junto con frutas como manzana o piña, los jugos verdes son refrescantes, revitalizantes y llenos de nutrientes, ofreciendo una forma deliciosa de obtener vitaminas y minerales esenciales para el cuerpo.",
+                "price":"$55.00",
+                "image":"img/26.jpg"  
+            },
+            {
+                "name": "Piña Colada" ,
+                "description":"Deliciosa bebida tropical elaborada con jugo de piña, crema de coco y ron, ofreciendo un sabor dulce, cremoso y exótico con notas tropicales que evocan el verano y la playa.",
+                "price":"$52.00",
+                "image":"img/27.jpg"  
+            },
+            {
+                "name": "Aguas frescas" ,
+                "description":"Toronja: Refrescante bebida elaborada con jugo de toronja fresca, agua y azúcar, con un sabor cítrico y ligeramente amargo que ofrece una sensación refrescante y revitalizante.
+                Limón: Deliciosa bebida elaborada con jugo de limón fresco, agua y azúcar, ofreciendo un sabor refrescante y ligeramente ácido, perfecto para calmar la sed en días calurosos.
+                Horchata: Refrescante bebida de origen latinoamericano, elaborada con leche de almendra, arroz, canela y azúcar, con un sabor dulce y especiado que ofrece una experiencia refrescante y reconfortante.",
+                "price":"$28.00 c/u",
+                "image":"img/28.jpg"
+            },
+
+            {
+                "name": "Limonada de agua mineral" ,
+                "description":"Refrescante bebida elaborada con limón exprimido, agua mineral y azúcar, ofreciendo un sabor cítrico, refrescante y ligero, perfecto para calmar la sed en días calurosos.",
+                "price":"$32.00",
+                "image":"img/29.jpg"
+            },
+            {
+                "name": "Refrescos de diferentes sabores" ,
+                "description":"Ponche: Refresco de sabor a frutas tropicales, con un toque dulce y refrescante.
+                Coca Cola: Refresco de sabor único, con un equilibrio entre dulce y ácido, con notas de vainilla y caramelo.
+                Naranja: Refresco con un intenso sabor a naranja, refrescante y cítrico.
+                Sprite: Refresco de limón-lima, con un sabor fresco y burbujeante, con toques cítricos y ligeramente ácidos.",
+                "price":"$28.00 c/u",
+                "image":"img/30.jpg"
+            }
+        }
+    }
+]
